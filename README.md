@@ -19,4 +19,6 @@ Prequisites:
 After making all the necessory directories, you can run the code and will have an Image Captioning AI bot by the end
 
 # P.S : run on google colab or with a gpu
+
+There is also a web app built on the same model, which is in the image captioning folder, the model there is already trained and saved, which is used directly in the web app.
   
